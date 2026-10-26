@@ -11,8 +11,6 @@ It uses a **frozen, pretrained Vision Transformer** and is trained on **normal i
 
 > Course project: *Deep Learning for Visual Data (MAAI901)*, University of Wollongong in Dubai.
 
-![Heat map examples (bottle)](results/examples_vit_bottle.png)
-
 <!-- Add your own UI screenshot here after uploading it to the results folder:
 ![ViT-Inspect UI](results/ui_screenshot.png) -->
 
