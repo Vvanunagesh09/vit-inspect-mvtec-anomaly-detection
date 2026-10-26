@@ -15,6 +15,11 @@ It uses a **frozen, pretrained Vision Transformer** and is trained on **normal i
 
 <!-- Add your own UI screenshot here after uploading it to the results folder:
 ![ViT-Inspect UI](results/ui_screenshot.png) -->
+## 🖥️ Application Preview
+
+The ViT-Inspect interface displays industrial inspection results, including the input image, anomaly heatmap, predicted defect region, and classification result.
+
+![ViT-Inspect UI Screenshot](results/ui_screenshot.png)
 
 ---
 
