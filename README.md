@@ -9,6 +9,8 @@
 ViT-Inspect detects **defects in industrial products** (scratches, cracks, dents, contamination, missing parts) and shows **where** they are with a heat map.
 It uses a **frozen, pretrained Vision Transformer** and is trained on **normal images only**. No defective image or mask is used for training.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vvanunagesh09/vit-inspect-mvtec-anomaly-detection/blob/main/ViT_Inspect_MVTec_AD.ipynb)
+
 > Course project: *Deep Learning for Visual Data (MAAI901)*, University of Wollongong in Dubai.
 
 ![Heat map examples (bottle)](results/examples_vit_bottle.png)
