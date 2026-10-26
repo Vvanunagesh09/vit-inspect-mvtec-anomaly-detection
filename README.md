@@ -215,9 +215,9 @@ git clone https://github.com/Vvanunagesh09/vit-inspect-mvtec-anomaly-detection.g
 ## Repository structure
 ```
 vit-inspect-mvtec-anomaly-detection/
-├── ViT_Inspect_MVTec_AD.ipynb     pipeline, evaluation, plots (UI is the last cell)
-├── vit_inspect_ui.py              Gradio interactive app (same code as the last cell)
-├── results/                       figures from the notebook (and your UI screenshot)
+├── ViT_Inspect_MVTec_AD.ipynb     pipeline, evaluation, plots 
+├── vit_inspect_ui.py              Gradio interactive app 
+├── results/                       figures from the notebook 
 └── README.md
 ```
 The dataset and the saved `.pt` memory banks are **not** included (large files). The notebook recreates them.
