@@ -1,5 +1,4 @@
 # ViT-Inspect: Unsupervised Industrial Anomaly Detection on MVTec AD using a Vision Transformer
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vvanunagesh09/vit-inspect-mvtec-anomaly-detection/blob/main/ViT_Inspect_MVTec_AD.ipynb)
 
 
 ![Python](https://img.shields.io/badge/Python-3.10+-007BA7?style=flat-square)
@@ -7,6 +6,9 @@
 ![Backbone](https://img.shields.io/badge/Backbone-DINO%20ViT--B%2F16-007BA7?style=flat-square)
 ![Dataset](https://img.shields.io/badge/Dataset-MVTec%20AD%20(Hugging%20Face)-FF2D95?style=flat-square)
 ![Demo](https://img.shields.io/badge/Demo-Gradio-007BA7?style=flat-square)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Vvanunagesh09/vit-inspect-mvtec-anomaly-detection/blob/main/ViT_Inspect_MVTec_AD.ipynb)
+
 
 ViT-Inspect detects **defects in industrial products** (scratches, cracks, dents, contamination, missing parts) and shows **where** they are with a heat map.
 It uses a **frozen, pretrained Vision Transformer** and is trained on **normal images only**. No defective image or mask is used for training.
